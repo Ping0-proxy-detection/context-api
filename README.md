@@ -14,6 +14,18 @@ The **ping0.xyz Context API** is a powerful tool for unmasking hidden users and 
 - **ASN & Company**: Detailed ownership and ISP information.
 - **Location**: Geolocation down to the city level.
 
+## How We Scan
+We run sophisticated IP scanners directly from within provider networks, allowing us to check live IPs offered at the current time. We scan the largest residential proxy pools in the world, ranging from top-tier providers to newcomers, as well as major VPN services, on a 24/7 basis.
+
+## Data Sources
+Our intelligence is powered by monitoring over **1,000+ Proxy and VPN companies** combined.
+
+## Update Cadence
+Our scanning infrastructure runs live **24/7**. New IPs are detected and added to our database instantly, ensuring real-time accuracy.
+
+## Retention
+We maintain rigorous data retention policies to track IP history while continuously updating their freshness. By purchasing residential proxy packages and running automated analysis scripts, we identify unique IPs and categorize them by provider classification 24/7/365.
+
 ## Example Response
 
 ```json
